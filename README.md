@@ -3,7 +3,7 @@ droidEye
 
 Android app for managing and controlling IP cameras easily.
 
-![T8738WIP](https://raw2.github.com/danielgimenes/droidEye/master/doc/T8738WIP.png) ![Android logo](https://raw2.github.com/danielgimenes/droidEye/master/doc/android.png)
+![T8738WIP](https://raw2.github.com/danielgimenes/droidEye/master/doc/T8738WIP_small.png) ![Android logo](https://raw2.github.com/danielgimenes/droidEye/master/doc/android_small.png)
 
 ## Status
 
