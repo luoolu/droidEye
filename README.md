@@ -1,11 +1,18 @@
 droidEye
 ========
 
-Android app for managing and controlling IP cameras easily
+Android app for managing and controlling IP cameras easily.
 
-#Status
+![T8738WIP](https://raw2.github.com/danielgimenes/droidEye/master/doc/T8738WIP.png) ![Android logo](https://raw2.github.com/danielgimenes/droidEye/master/doc/android.png)
+
+## Status
 
 Under development
+
+## Supports
+
+- VStarCam protocol;
+- (more to come!)
 
 ## Tested on
 
