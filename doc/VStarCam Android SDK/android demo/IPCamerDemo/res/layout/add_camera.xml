@@ -188,7 +188,7 @@
                         android:layout_marginRight="10.0dip"
                         android:layout_marginTop="5.0dip"
                         android:gravity="center"
-                        android:text="连        接"
+                        android:text="Connect"
                         android:textSize="@dimen/text_title_size" />
                 </LinearLayout>
             </LinearLayout>
@@ -213,7 +213,7 @@
                     android:layout_marginBottom="5dp"
                     android:gravity="center"
                     android:paddingLeft="15dp"
-                    android:text="预览模式"
+                    android:text="Preview mode"
                     android:textColor="@color/color_black"
                     android:textSize="@dimen/text_title_size" />
 
@@ -224,7 +224,7 @@
                     android:layout_gravity="right"
                     android:gravity="center"
                     android:paddingLeft="15dp"
-                    android:text="系统设置"
+                    android:text="System Settings"
                     android:textColor="@color/color_black"
                     android:textSize="@dimen/text_title_size" />
             </LinearLayout>

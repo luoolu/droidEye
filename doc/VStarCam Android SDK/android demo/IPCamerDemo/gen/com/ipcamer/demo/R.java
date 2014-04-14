@@ -372,7 +372,7 @@ public final class R {
         public static final int add_search_no=0x7f07005b;
         public static final int add_search_result=0x7f07005a;
         public static final int add_twodimensioncode=0x7f07005c;
-        /**  Alerm 设置 
+        /**  Alerm Settings 
          */
         public static final int alerm_detector_layout=0x7f070087;
         public static final int alerm_detector_sensitivity=0x7f070088;
@@ -400,7 +400,7 @@ public final class R {
         public static final int alerm_upload_picture_time_interval=0x7f070091;
         public static final int alerm_uploadinterval_toolong=0x7f070099;
         public static final int alerm_uploadpic_prompt=0x7f07009a;
-        /**  应有程序 
+        /**  Due process 
          */
         public static final int app_name=0x7f070001;
         public static final int app_running=0x7f070018;
@@ -417,11 +417,11 @@ public final class R {
         public static final int camera_type_h264=0x7f070112;
         public static final int camera_type_mjpeg=0x7f070111;
         public static final int camera_user=0x7f070002;
-        /**  Ptz设置 
- 查看本地图片界面 
+        /**  Ptz Settings 
+ View local picture interface 
          */
         public static final int check_localpic=0x7f0700fd;
-        /**  查看本地视频界面 
+        /**  See local video interface 
          */
         public static final int check_localvid=0x7f070106;
         public static final int check_loction=0x7f07001f;
@@ -445,7 +445,7 @@ public final class R {
         public static final int date_cape_verde_island=0x7f0700b0;
         public static final int date_center_ocean=0x7f0700af;
         public static final int date_darwin=0x7f0700be;
-        /**  时间设置 
+        /**  Time Settings 
          */
         public static final int date_device_time=0x7f0700a0;
         public static final int date_device_timezone=0x7f0700a1;
@@ -499,7 +499,7 @@ public final class R {
         public static final int ftp_getparams=0x7f0700ee;
         public static final int ftp_port=0x7f0700e7;
         public static final int ftp_pwd=0x7f0700e9;
-        /**  Ftp设置 
+        /**  Ftp Settings 
          */
         public static final int ftp_server=0x7f0700e6;
         public static final int ftp_setting=0x7f07006a;
@@ -513,7 +513,7 @@ public final class R {
         public static final int init_network_error=0x7f070023;
         public static final int input_camera_addr=0x7f070053;
         public static final int input_camera_id=0x7f070056;
-        /**  添加相机/修改相机 界面 
+        /**  Added camera / Modify Camera Interface 
          */
         public static final int input_camera_name=0x7f07004e;
         public static final int input_camera_port=0x7f070054;
@@ -541,7 +541,7 @@ public final class R {
         public static final int mail_receiver2=0x7f0700d4;
         public static final int mail_receiver3=0x7f0700d5;
         public static final int mail_receiver4=0x7f0700d6;
-        /**  邮件设置 
+        /**  Mail Settings 
          */
         public static final int mail_sender=0x7f0700c9;
         public static final int mail_setting=0x7f070069;
@@ -566,7 +566,7 @@ public final class R {
         public static final int main_edit=0x7f07003f;
         public static final int main_model_name=0x7f07012a;
         public static final int main_model_pre=0x7f070124;
-        /**  新加登陆后界面 
+        /**  Added after the new login screen 
          */
         public static final int main_model_show_tost_connection=0x7f070122;
         public static final int main_model_u=0x7f070123;
@@ -605,7 +605,7 @@ public final class R {
         public static final int pppp_status_connect_timeout=0x7f070039;
         public static final int pppp_status_connecting=0x7f07002d;
         public static final int pppp_status_disconnect=0x7f07002f;
-        /**  主界面 
+        /**  Main Interface 
          */
         public static final int pppp_status_initialing=0x7f07001a;
         public static final int pppp_status_invalid_id=0x7f070032;
@@ -624,14 +624,14 @@ public final class R {
         public static final int recv_error=0x7f07000f;
         public static final int refresh=0x7f07005f;
         public static final int remote_end_prompt=0x7f07010e;
-        /**  查看远程图片界面 
+        /**  View remote images interface 
          */
         public static final int remote_pic_offline=0x7f070105;
         public static final int remote_start_prompt=0x7f07010d;
         public static final int remote_to=0x7f07010f;
         public static final int remote_video_getparams=0x7f07010b;
         public static final int remote_video_offline=0x7f07010c;
-        /**  查看远程视频界面 
+        /**  See Remote Video Interface 
          */
         public static final int remote_video_title=0x7f070109;
         public static final int save_user=0x7f070128;
@@ -639,7 +639,7 @@ public final class R {
         public static final int scan_cameraid_fail=0x7f070059;
         public static final int sdcard_coverage=0x7f0700f6;
         public static final int sdcard_format=0x7f0700f3;
-        /**  摄像机 SDCard 设置 
+        /**  Camera SDCard Settings 
          */
         public static final int sdcard_getparams=0x7f0700ef;
         public static final int sdcard_inserted=0x7f0700f4;
@@ -654,14 +654,14 @@ public final class R {
         public static final int sdcard_state=0x7f0700f2;
         public static final int sdcard_total=0x7f0700f0;
         public static final int search_camera=0x7f07005e;
-        /**  搜索相机界面 
+        /**  Search camera interface 
          */
         public static final int searching_tip=0x7f07005d;
         public static final int select_list=0x7f070138;
         public static final int send_error=0x7f07000e;
         public static final int setting=0x7f070026;
         public static final int setting_alerm=0x7f070064;
-        /**  设置界面 
+        /**  Settings interface 
          */
         public static final int setting_camera=0x7f070060;
         public static final int setting_ftp=0x7f070063;
@@ -675,7 +675,7 @@ public final class R {
         public static final int showpwd=0x7f07000a;
         public static final int shuxin_wifi=0x7f070139;
         public static final int soft_name=0x7f070004;
-        /**  播放界面 
+        /**  Player interface 
          */
         public static final int stopplay_alert=0x7f070110;
         public static final int str_about=0x7f070021;
@@ -684,7 +684,7 @@ public final class R {
         public static final int str_ok=0x7f070006;
         public static final int str_search=0x7f07001e;
         public static final int str_second=0x7f07011a;
-        /**  欢迎界面 
+        /**  Welcome screen 
          */
         public static final int str_version=0x7f070019;
         public static final int string_about=0x7f070027;
@@ -693,7 +693,7 @@ public final class R {
         public static final int tf_file_video_loading=0x7f070132;
         public static final int unbind_wifi=0x7f070129;
         public static final int unknow_error=0x7f070010;
-        /**  User 设置 
+        /**  User Settings 
          */
         public static final int user_admin=0x7f07007b;
         public static final int user_getparams=0x7f070083;
@@ -711,7 +711,7 @@ public final class R {
         public static final int version_conent=0x7f070012;
         public static final int video_model_ing=0x7f070126;
         public static final int videoing=0x7f07013a;
-        /**  Wifi 设置 
+        /**  Wifi Settings 
          */
         public static final int wifi=0x7f07006c;
         public static final int wifi_checkmode=0x7f07006d;
